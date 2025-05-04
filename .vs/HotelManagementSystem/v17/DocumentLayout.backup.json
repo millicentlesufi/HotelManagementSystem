@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|d:\\library\\documents\\uct\\semester 2\\inf2011s\\group project\\c#\\inf2011s_group36_project_2024\\hotelmanagementsystem\\hotelmanagementsystem\\presentation\\currentbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\presentation\\currentbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\hotelmanagementsystem\\presentation\\newbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\presentation\\newbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\hotelmanagementsystem\\presentation\\mdi_homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\presentation\\mdi_homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\hotelmanagementsystem\\presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBDF1B0-BC53-464D-A342-8BFFD99098FD}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\presentation\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentBookings.cs [Design]",
+              "DocumentMoniker": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\CurrentBookings.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Presentation\\CurrentBookings.cs",
+              "ToolTip": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\CurrentBookings.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Presentation\\CurrentBookings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:49:48.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBookings.cs [Design]",
+              "DocumentMoniker": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\NewBookings.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Presentation\\NewBookings.cs",
+              "ToolTip": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\NewBookings.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Presentation\\NewBookings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:48:44.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIN.cs",
+              "DocumentMoniker": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\LogIN.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Presentation\\LogIN.cs",
+              "ToolTip": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\LogIN.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Presentation\\LogIN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:51:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MDI_HomeScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\MDI_HomeScreen.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Presentation\\MDI_HomeScreen.cs",
+              "ToolTip": "D:\\Library\\Documents\\UCT\\Semester 2\\INF2011S\\Group Project\\C#\\INF2011S_Group36_Project_2024\\HotelManagementSystem\\HotelManagementSystem\\Presentation\\MDI_HomeScreen.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Presentation\\MDI_HomeScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:30:11.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
