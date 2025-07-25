@@ -1,35 +1,79 @@
-Read me document
 
-The following gives important details for the running of the system.
-___________________________________________________________________________________
-To log in you can use one of the following users:
+---
 
-Receptionist
-Username: R-1
-Password: password
+# 🏨 Hotel Management System
 
-Manager
-Username: M-1
-Password: a
+A robust desktop-based Hotel Management System for handling bookings, staff, and operational reporting. Designed for use by hotel staff to streamline the booking process and performance management across multiple user roles.
 
-General Manager
-Username: GM-1
-Password: b
-___________________________________________________________________________________
+---
 
-Test data:
+## 🚀 Features
 
-Nkosinathi Mthembu has been added into the database and does not have a booking attached to him. His ID number in the system is 8304235060087. If when making a booking you enter that ID number into the guest ID number textbox his details will be automatically filled in.
+- 📅 **Booking Management**: Make, edit, and cancel bookings.
+- 🛏 **Room Availability**: Check live room availability.
+- 🧑‍💼 **Staff Management**: Add or remove receptionists and managers.
+- 📊 **Operational Reports**:
+  - Occupancy Reports
+  - Income Reports (viewed by General Manager)
+- 📧 **Email Functionality**:
+  - Booking confirmation sent to guests.
+  - PDF performance reports emailed to managers.
 
-___________________________________________________________________________________ 
+---
 
-Email functionality:
+## 👥 User Roles & Access
 
-To see the results of the working email functionality you should:
-1: For bookings: If you add your email address as the guests email address you will receive the confirmation email that would be sent to the guest.
-2: For the reports: If you create a new staff member that is a manager or a general manager and add your email address, then when running the Operational Report when you click send report you will receive the report in PDF format.
-___________________________________________________________________________________
+| Role             | Access Rights                                                                 |
+|------------------|--------------------------------------------------------------------------------|
+| **Receptionist** | Can manage bookings only. Interacts with guests via phone.                    |
+| **Manager**      | Can view **occupancy reports** only.                                          |
+| **General Manager** | Full access: make bookings, manage staff, and view all performance reports. |
 
-New Users:
+---
 
-When a new user is created, their username and password are their assigned staff ID. The password can be changed when logged in as the new user by going to the change password screen.
+## 🔐 Login Credentials
+
+Use the following credentials to explore the system:
+
+| Role              | Username | Password  |
+|-------------------|----------|-----------|
+| Receptionist      | `R-1`    | `password`|
+| Manager           | `M-1`    | `a`       |
+| General Manager   | `GM-1`   | `b`       |
+
+---
+
+## 🧪 Test Data
+
+To quickly test the booking system:
+
+- Use Guest ID: `8304235060087`  
+- Guest: **Nkosinathi Mthembu**  
+- His details will autofill when you enter the ID during booking.
+
+---
+
+## ✉️ Email Functionality
+
+To test email features:
+
+- **Bookings**: Use your email as the guest's email to receive a booking confirmation.
+- **Reports**: Add a new staff member (Manager or General Manager) with your email to receive operational reports in PDF.
+
+---
+
+## 👤 New User Setup
+
+Newly created staff members are automatically assigned:
+- **Username** = Staff ID
+- **Password** = Staff ID  
+They can later change their password via the **Change Password** screen.
+
+---
+
+## 📎 Setup & Requirements
+
+> Microsoft Visual studio
+
+---
+
